@@ -1,0 +1,15 @@
+body {
+  font-family: system-ui;
+  background-color: lightgreen;
+  color: white;
+  text-align: center;
+}
+header{
+  text-decoration:none;
+  border: 10px solid black;
+    border-radius:10px;
+  color:green;
+}
+h2{
+  font-size="20px 20px"
+}
